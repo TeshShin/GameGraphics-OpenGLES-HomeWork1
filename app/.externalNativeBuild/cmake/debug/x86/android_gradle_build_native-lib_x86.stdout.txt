@@ -1,0 +1,10 @@
+[1/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/main.cpp.o
+[2/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/light.cpp.o
+[3/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/material.cpp.o
+[4/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/asset.cpp.o
+[5/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/shader.cpp.o
+[6/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/camera.cpp.o
+[7/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/object.cpp.o
+[8/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/scene.cpp.o
+[9/10] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/program.cpp.o
+[10/10] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\x86\libnative-lib.so

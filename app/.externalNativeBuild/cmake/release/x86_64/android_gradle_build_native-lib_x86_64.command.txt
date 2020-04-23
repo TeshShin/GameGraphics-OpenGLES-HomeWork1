@@ -1,0 +1,8 @@
+Executable : C:\Users\user\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Users\user\Desktop\-GameGraphics-_Homework1-master\-GameGraphics-_Homework1-master\OpenGLES_HW1\app\.externalNativeBuild\cmake\release\x86_64
+--target
+native-lib
+jvmArgs : 
+
