@@ -1,4 +1,4 @@
-# GameGraphics-Homework1
+# -GameGraphics-_Homework1
 
 This is a task for my college with using OpenGL ES 3.0 in Android Studio.
 
