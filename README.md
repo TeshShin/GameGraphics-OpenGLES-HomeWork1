@@ -8,3 +8,4 @@ As a result, you can see the teapot rotating in the apk, which is scaled and rot
 * [GG_HW1_guide.pdf](https://github.com/TeshShin/GameGraphics-OpenGLES-HomeWork1/blob/master/GG_HW1_guide.pdf) have what problems are.
 * Or see problem [Github page](https://github.com/siamiz88/-GameGraphics-_Homework1)
 ## Result
+[Youtube Links](https://youtube.com/shorts/GZXdvPOocSU?feature=share)
